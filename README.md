@@ -9,10 +9,7 @@
 ### 1. [Course Information]()
 
 ---
-### 2. []()
-
-
-
+### 2. [Lecture Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/README.md)
 
 ---
 
