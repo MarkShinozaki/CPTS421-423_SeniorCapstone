@@ -1,8 +1,8 @@
 # CPTS 421/423 - WASHINGTON STATE UNIVERISTY
-## Systems Programming Unix-Linux, Complete Course Navigation
+## Senior Design / Capstone Project, Complete Course Navigation
 
 > [!TIP]
-> ***Senior Design / Capstone Project, always click on the Menu Icon towards the top right of the page***
+> ***For Easy Navigation on any page, always click on the Menu Icon towards the top right of the page***
 
 ### NAVIGATION OF ALL MATERIAL 
 
