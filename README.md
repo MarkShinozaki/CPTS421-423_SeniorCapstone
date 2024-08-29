@@ -6,7 +6,7 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. [Course Information]()
+### 1. [Course Information](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Course-Information/README.md)
 
 ---
 ### 2. [Lecture Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/README.md)
@@ -14,7 +14,7 @@
 ---
 
 > [!IMPORTANT]
-> ***This Course is meant to introduce you to***
+> ***This Course is meant to introduce you to the practice of integrating your software engineering knowledge and producing a useful engineering artifact. Senior design courses allow senior-level students to apply the major activities of the software development process, including communication, planning, modeling and design, construction, and deployment***
 > ***The Work and Material in this Repo is meant to provide assistance; there is a possibility that a few things here and there are not correct, so please check all contents yourself.***
 
 
