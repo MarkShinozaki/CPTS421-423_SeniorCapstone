@@ -11,6 +11,20 @@
 ---
 ### 2. [Lecture Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/README.md)
 
+#### [Lecture 1 - Course Introduction & Warmup](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture1.ppt)
+
+#### [Lecture 2 - Teams and Sprint 1](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture2.ppt)
+
+#### [Lecture 3 - Introduction to Agile](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture3.ppt)
+
+#### [Lecture 4 - Requirements & Specifications (WA2)](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture4.ppt)
+
+#### [Lecture 5 - User Stories, Issues, and Project Management Tools](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture5.ppt)
+
+#### [Lecture 6 - Testing and Acceptance Plans (WA4)](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture6.ppt)
+
+#### [Lecture 7 - DevOps and CI/CD](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture7.ppt)
+
 ---
 
 > [!IMPORTANT]
