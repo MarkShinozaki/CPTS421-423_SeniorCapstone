@@ -9,7 +9,7 @@
 ### 1. [Course Information](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Course-Information/README.md)
 
 ---
-### 2. [Lecture Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/README.md)
+### 2. [Lecture Slides](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/tree/Lectures-Slides)
 
 #### [Lecture 1 - Course Introduction & Warmup](https://github.com/MarkShinozaki/CPTS421-423_SeniorCapstone/blob/Lectures-Slides/Lecture1.ppt)
 
